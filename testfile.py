@@ -1,0 +1,1 @@
+print("FTC is fun")
