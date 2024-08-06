@@ -1,2 +1,2 @@
 print("Hello FTC!")
-print("This is team Paragon")
+print("From Paragon 11311")
