@@ -1,2 +1,1 @@
-print("Hello FTC!")
-print("From Paragon 11311")
+print("Hello World!")
